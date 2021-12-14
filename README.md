@@ -12,6 +12,6 @@ styling and builing your own components. (It can help you a lot in case your bui
 there are four main pages (Sign up, sign in, dashboard and profile page) some are public and some are private with auth listeners. 
 Firebase firestore handles all the data, and that data is retrieved using a custom hook.
 
-Unfortulnitly i did no testing in this app.
+Unfortulnitly i did no testing on this app.
 
 ![alt text](https://github.com/aghsa97/Instagram-clone/blob/main/imageedit_3_6002620348.png?raw=true)
