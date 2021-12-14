@@ -14,4 +14,4 @@ Firebase firestore handles all the data, and that data is retrieved using a cust
 
 Unfortulnitly i did no testing in this app.
 
-![image] (https://github.com/aghsa97/Instagram-clone/blob/main/instagram.PNG?raw=true)
+![thecodebuzz] (https://github.com/aghsa97/Instagram-clone/blob/main/instagram.PNG?raw=true)
