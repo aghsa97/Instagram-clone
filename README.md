@@ -13,3 +13,5 @@ there are four main pages (Sign up, sign in, dashboard and profile page) some ar
 Firebase firestore handles all the data, and that data is retrieved using a custom hook.
 
 Unfortulnitly i did no testing in this app.
+
+![alt text] (https://github.com/aghsa97/Instagram-clone/blob/main/instagram.PNG)
