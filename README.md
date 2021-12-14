@@ -3,8 +3,8 @@
 
 This single page app (instagram-clone) was built using react (Custom Hooks and context), firebase firestore and tailwind css.
 
-I enjoyed using the custom hooks and context in react due to its appilty to get the data easly from the parents component
-and the hooks allowed me to handle the life-cickle of the componenet without any complitcations.
+I enjoyed using the custom hooks and context in react due to its appility to get the data easly from the parents components
+and the hooks allowed me to handle the life-cickle of the componenets without any complitcations.
 
 Tailwind css is really fun and easy to use. Setting up Tailwind can be a bit hard but once everything is satup you will enjoy
 styling and builing your own components. (It can help you a lot in case your building a responsive app).
