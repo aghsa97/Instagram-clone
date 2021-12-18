@@ -12,7 +12,7 @@ styling and builing your own components. (It can help you a lot in case your bui
 there are four main pages (Sign up, sign in, dashboard and profile page) some are public and some are private with auth listeners. 
 Firebase firestore handles all the data, and that data is retrieved using a custom hook.
 
-In this app you as a user can: 
+In this app as a user can: 
 - Sign in / sign up.
 - Have an account and a profile page.
 - Check other users profile pages.
