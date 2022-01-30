@@ -1,4 +1,4 @@
-# Instagram-clone from Scratch Using React, Tailwind CSS and Firebase
+# Instagram-clone from scratch Using React, Tailwind CSS and Firebase
 # 📣 Summary
 
 This single page app (instagram-clone) was built using react (Custom Hooks and context), firebase firestore and tailwind css.
