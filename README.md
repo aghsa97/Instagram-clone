@@ -32,6 +32,6 @@ This app has:
 - Protected routes.
 - Storing Username, email, fullname, capture, followers, followed accounts, likes and comments in the database.
 
-Unfortulnitly i did no testing on this app.
+
 
 ![alt text](https://github.com/aghsa97/Instagram-clone/blob/main/imageedit_3_6002620348.png?raw=true)
